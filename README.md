@@ -1,4 +1,3 @@
-# MMJ
 # Meow Meh Jing, aka The Book of Meow
 
 We originate from http://laurenlau.com/meow-meh-jing.  
